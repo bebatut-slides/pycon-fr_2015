@@ -73,6 +73,18 @@ Probleme: modularité
 Galaxy: fonctionnement? Python derrière
 ca plait aux biologistes (habitués à cette interface)
 
+expansion de la communauté en dehors du coeurs: facilitated by much of Galaxy’s 
+development being coordinated online and in public, using mailing lists, source 
+code repositories (https://github.com/galaxyproject/ hosted by GitHub, Inc.) and 
+project management tools to track issues and feature requests (Trello, hosted by 
+Trello, Inc.)
+
+Galaxy is an open-source project and an international development community has grown up that contributes improvements to the core software and, more import- antly, to a growing pool of new tools and datatype defi- nitions that can be added to individual Galaxy servers.
+
+These extensions are typically shared via the Galaxy Tool Shed [9], which is a public repository of tools and workflows, from where they can then be installed on in- dividual Galaxy servers. Multiple tools were published in the past 2 years [10–13].
+
+CloudMan
+
 ## Appris
 
 Formalisation du problème
