@@ -30,3 +30,52 @@ framework to process and analyze data from intestinal microbiota, designed for
 biologists: simple yet powerful! In this talk, I am going to introduce how we 
 created ASaiM, why we chose Python, but also what I have learnt developing such 
 a software
+
+# Presentation (20 minutes)
+
+Attention au public !!!
+
+## Présentation de moi?
+
+
+## ASaiM project
+
+Microbiote
+
+Pourquoi étudier le microbiote?
+
+Quel type d'information?
+
+Pourquoi c'est dur?
+
+- variabilité intra-specifique
+- espèces inconnues dans les bases de données
+- variabilité induite par le séquençage et autres
+
+image d'un cluster de séquences 
+
+Besoin de nombreux traitements pour retirer l'information utile
+
+Data volume vs moore's law
+
+## ASaiM framework
+
+### Tools to add
+
+### Pipelines 
+
+Probleme: modularité
+
+### Tested approaches
+
+[Cosmos](https://github.com/LPM-HMS/COSMOS-2.0)
+
+Galaxy: fonctionnement? Python derrière
+ca plait aux biologistes (habitués à cette interface)
+
+## Appris
+
+Formalisation du problème
+Mise en place d'outils
+
+
