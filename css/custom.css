@@ -5,6 +5,11 @@ img.no-border,
     background: none !important;
 }
 
+.requirements li {
+    list-style-type: none;
+    text-align: left;
+}
+
 .me {
     margin: 0 !important;
     text-align: center !important;
