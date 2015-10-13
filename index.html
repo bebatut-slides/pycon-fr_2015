@@ -111,8 +111,225 @@
                         <em>"Forgotten" organ</em>
                     </section>
 
+                    <section>
+                        <h3>Metagenomic: study of microbiota</h3>
+                        </br>
+                        <img src="images/metagenomics.png" alt="Metagenomics" class="no-border"/>
+                    </section>
+
                     <section data-markdown>
-                        ### 
+                        ### Complexity
+
+                        * Short sequences
+                        * Sequence variability
+                        * Uncomplete reference databases
+                        * ...
+
+                        *Need for numerous treatments to extract useful information*
+                    </section>
+
+                    <section>
+                        <img src="images/global_rna_sorting_scheme.svg" alt="Example of workflow to sort sequences given their type" class="no-border" />
+                        <br/>
+                        <small><em class="subtitle">Example of workflow to sort sequences given their type</em></small>
+                    </section>
+
+                </section>
+
+                <section>
+                    <section data-markdown>
+                        # ASaiM framework
+                    </section>
+
+                    <section data-markdown>
+                        Bioinformatics framework to generate workflows to analyze data
+                        from gut microbiota
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            ### Main Requirements
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-square-o"></i> Generation of workflow with numerous tools</p>
+                                    <p><i class="fa fa-square-o"></i> Easy to use</p>
+                                    <p><i class="fa fa-square-o"></i> Flexibility</p>
+                                    <p><i class="fa fa-square-o"></i> Heavily and easily documented</p>
+                                    <p><i class="fa fa-square-o"></i> Easy to maintain</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        ### First tested approach
+
+                        Simple Python scripts
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            ### Fit with framework requirements ?
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-square-o"></i> Generation of workflow with numerous tools</p>
+                                    <p><i class="fa fa-square-o"></i> Easy to use</p>
+                                    <p><i class="fa fa-square-o"></i> Flexibility</p>
+                                    <p><i class="fa fa-square-o"></i> Heavily and easily documented</p>
+                                    <p><i class="fa fa-square-o"></i> Easy to maintain</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Second tested approach
+
+                        Worflow manager such as Luigi, Airflow, ...
+
+                        <img src="images/airflow.png" alt="Airflow" class="no-border" />
+                        <br/>
+                        <small><em class="subtitle">Airflow dependency graph <i>(from <a href="http://nerds.airbnb.com/airflow/">Airbnb site</a>)</i></em></small>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            ### Fit with framework requirements ?
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-check-square-o"></i> Generation of workflow with numerous tools</p>
+                                    <p><i class="fa fa-check-square-o"></i> Easy to use</p>
+                                    <p><i class="fa fa-square-o"></i> Flexibility</p>
+                                    <p><i class="fa fa-square-o"></i> Heavily and easily documented</p>
+                                    <p><i class="fa fa-check-square-o"></i> Easy to maintain</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        ### Third tested approach
+
+                        Homemade approach
+
+                        * Configuration file
+                            * Workflow description
+                            * Web interface for generation 
+                        * Python scripts to execute workflow in configuration file
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            ### Fit with framework requirements ?
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-check-square-o"></i> Generation of workflow with numerous tools</p>
+                                    <p><i class="fa fa-check-square-o"></i> Easy to use</p>
+                                    <p><i class="fa fa-square-o"></i> Flexibility</p>
+                                    <p><i class="fa fa-square-o"></i> Heavily and easily documented</p>
+                                    <p><i class="fa fa-square-o"></i> Easy to maintain</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Main issue with these approaches
+
+                        Dependency between the tasks
+
+                        <img src="images/airflow.png" alt="Airflow" class="no-border" />
+                        <br/>
+                        <small><em class="subtitle">Airflow dependency graph <i>(from <a href="http://nerds.airbnb.com/airflow/">Airbnb site</a>)</i></em></small>
+                        </script>
+                    </section>
+
+                    <section data-background="images/global_rna_sorting.svg"></section>
+
+                    <section data-markdown>
+                        ### Final approach
+
+                        Galaxy
+
+                        * Open-source project based on Python
+                        * International development community
+                        * Web interface
+                        * Tool Shed
+                        * ...
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            ### Fit with framework requirements ?
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-check-square-o"></i> Generation of workflow with numerous tools</p>
+                                    <p><i class="fa fa-check-square-o"></i> Easy to use</p>
+                                    <p><i class="fa fa-check-square-o"></i> Flexibility</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Heavily and easily documented</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Easy to maintain</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Galaxy dependency graph
+
+                        <img src="images/galaxy_workflow.png" alt="Galaxy_workflow" class="no-border" />
+                        <br/>
+                        <small><em class="subtitle">Workflow to sort sequences given their type</em></small>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        ### AsaiM framework
+
+                        * Configuration of a Galaxy server
+                        * Development of wrappers for tool integration
+                        * Development of scripts to use Galaxy and API
+                    </section>    
+                </section>
+
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Used tools
+
+                        * Code
+                            * <i class="fa fa-github"></i> Github and submodules 
+                            * Gitlab
+                        * Documentation
+                            * Sphinx + ReadTheDoc + <i class="fa fa-github"></i> Github
+                        * Web page    
+                            * Jekyll + <i class="fa fa-github"></i> Github page
+                        * Management
+                            * <i class="fa fa-trello"></i> Trello
+                            * <i class="fa fa-slack"></i> Slack
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                    ### Learned from this project
+
+                    * Need to correctly define the conception
+                        * *No workflow manager with input/output dependency*
+                    * Do no reinvent the wheel
+                        * *Do not prefer home-made solution* 
+                    * Integrate active community
+                        * *Galaxy, Clermont'ech, Pycon, ...*
+                    * Need of good tools and good habits in big projects
+                        * *Roadmap, management and development tools*
+
                     </section>
                 </section>
 
