@@ -1,0 +1,987 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg style="stroke:black; fill:none; stroke-width:1px; stroke-linejoin:round; text-anchor:left" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif" height="1490.890625px" width="2715.34375px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2715.34375 1490.890625">
+
+<g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_1" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_1)" d="M342.922 482.438L471.031 348" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_19" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_19)" d="M342.922 482.438L464.672 487.438" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_37" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_37)" d="M347.781 677.609L470.578 681.812" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_55" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_55)" d="M347.781 677.609L476.031 891" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_73" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_73)" d="M746.922 527.438L791.031 318" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_91" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_91)" d="M746.922 527.438L775.031 541.609" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_109" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_109)" d="M752.828 721.812L777.031 736.609" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_127" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_127)" d="M752.828 721.812L781.031 918" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_145" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_145)" d="M919.031 761.609L1098.53 448.609" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_163" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_163)" d="M917.031 566.609L1098.53 433.609" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_181" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_181)" d="M919.031 761.609L1099.98 639.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_199" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_199)" d="M917.031 566.609L1099.98 624.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_217" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_217)" d="M917.031 566.609L1107.53 924.609" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_235" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_235)" d="M919.031 761.609L1107.53 909.609" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_253" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_253)" d="M1273.53 473.609L1330.03 307" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_271" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_271)" d="M1273.53 473.609L1449.03 411" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_289" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_289)" d="M1250.23 664.969L1334.03 663" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_307" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_307)" d="M1250.23 664.969L1399.98 540.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_325" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_325)" d="M1250.23 664.969L1393.98 806.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_343" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_343)" d="M1282.53 949.609L1353.03 1088" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_361" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_361)" d="M1282.53 949.609L1453.03 986" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_379" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_379)" d="M1459.48 565.969L1688.98 510.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_397" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_397)" d="M1459.48 565.969L1689.03 631" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_415" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_415)" d="M1453.48 831.969L1692.03 774" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_433" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_433)" d="M1453.48 831.969L1692.98 898.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_451" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_451)" d="M1508.53 436L1909.48 354.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_469" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_469)" d="M1748.48 535.969L1909.48 369.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_487" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_487)" d="M1752.48 923.969L1937.48 999.969" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_505" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_505)" d="M1512.53 1011L1937.48 1014.97" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_523" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_523)" d="M2084.48 394.969L2176.03 341" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_541" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_541)" d="M2112.48 1039.97L2207.64 960.5" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_559" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_559)" d="M2112.48 1039.97L2383.09 1151.72" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="conn_577" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#conn_577)" d="M435.297 1230.89L2383.09 1136.72" />
+
+</g>
+
+</g>
+
+<g>
+
+<path d="M230.672 442.438L337.922 442.438L337.922 472.438L230.672 472.438Z" fill="#EBD9B2" />
+
+<path d="M230.672 472.438L337.922 472.438L337.922 492.438L230.672 492.438Z" fill="#ffffff" />
+
+<path d="M235.531 637.609L342.781 637.609L342.781 667.609L235.531 667.609Z" fill="#EBD9B2" />
+
+<path d="M235.531 667.609L342.781 667.609L342.781 687.609L235.531 687.609Z" fill="#ffffff" />
+
+<path d="M323.047 1190.89L430.297 1190.89L430.297 1220.89L323.047 1220.89Z" fill="#EBD9B2" />
+
+<path d="M323.047 1220.89L430.297 1220.89L430.297 1240.89L323.047 1240.89Z" fill="#ffffff" />
+
+<path d="M476.031 303L682.281 303L682.281 333L476.031 333Z" fill="#EBD9B2" />
+
+<path d="M476.031 333L682.281 333L682.281 383L476.031 383Z" fill="#ffffff" />
+
+<path d="M469.672 442.438L741.922 442.438L741.922 472.438L469.672 472.438Z" fill="#EBD9B2" />
+
+<path d="M469.672 472.438L741.922 472.438L741.922 537.438L469.672 537.438Z" fill="#ffffff" />
+
+<path d="M475.578 636.812L747.828 636.812L747.828 666.812L475.578 666.812Z" fill="#EBD9B2" />
+
+<path d="M475.578 666.812L747.828 666.812L747.828 731.812L475.578 731.812Z" fill="#ffffff" />
+
+<path d="M481.031 846L687.281 846L687.281 876L481.031 876Z" fill="#EBD9B2" />
+
+<path d="M481.031 876L687.281 876L687.281 926L481.031 926Z" fill="#ffffff" />
+
+<path d="M796.031 273L1002.28 273L1002.28 303L796.031 303Z" fill="#EBD9B2" />
+
+<path d="M796.031 303L1002.28 303L1002.28 353L796.031 353Z" fill="#ffffff" />
+
+<path d="M780.031 496.609L912.031 496.609L912.031 526.609L780.031 526.609Z" fill="#EBD9B2" />
+
+<path d="M780.031 526.609L912.031 526.609L912.031 576.609L780.031 576.609Z" fill="#ffffff" />
+
+<path d="M782.031 691.609L914.031 691.609L914.031 721.609L782.031 721.609Z" fill="#EBD9B2" />
+
+<path d="M782.031 721.609L914.031 721.609L914.031 771.609L782.031 771.609Z" fill="#ffffff" />
+
+<path d="M786.031 873L992.281 873L992.281 903L786.031 903Z" fill="#EBD9B2" />
+
+<path d="M786.031 903L992.281 903L992.281 953L786.031 953Z" fill="#ffffff" />
+
+<path d="M1103.53 388.609L1268.53 388.609L1268.53 418.609L1103.53 418.609Z" fill="#EBD9B2" />
+
+<path d="M1103.53 418.609L1268.53 418.609L1268.53 483.609L1103.53 483.609Z" fill="#ffffff" />
+
+<path d="M1104.98 579.969L1245.23 579.969L1245.23 609.969L1104.98 609.969Z" fill="#EBD9B2" />
+
+<path d="M1104.98 609.969L1245.23 609.969L1245.23 674.969L1104.98 674.969Z" fill="#ffffff" />
+
+<path d="M1112.53 864.609L1277.53 864.609L1277.53 894.609L1112.53 894.609Z" fill="#EBD9B2" />
+
+<path d="M1112.53 894.609L1277.53 894.609L1277.53 959.609L1112.53 959.609Z" fill="#ffffff" />
+
+<path d="M1335.03 262L1541.28 262L1541.28 292L1335.03 292Z" fill="#EBD9B2" />
+
+<path d="M1335.03 292L1541.28 292L1541.28 342L1335.03 342Z" fill="#ffffff" />
+
+<path d="M1454.03 366L1503.53 366L1503.53 396L1454.03 396Z" fill="#EBD9B2" />
+
+<path d="M1454.03 396L1503.53 396L1503.53 446L1454.03 446Z" fill="#ffffff" />
+
+<path d="M1339.03 618L1545.28 618L1545.28 648L1339.03 648Z" fill="#EBD9B2" />
+
+<path d="M1339.03 648L1545.28 648L1545.28 698L1339.03 698Z" fill="#ffffff" />
+
+<path d="M1404.98 495.969L1454.48 495.969L1454.48 525.969L1404.98 525.969Z" fill="#EBD9B2" />
+
+<path d="M1404.98 525.969L1454.48 525.969L1454.48 575.969L1404.98 575.969Z" fill="#ffffff" />
+
+<path d="M1398.98 761.969L1448.48 761.969L1448.48 791.969L1398.98 791.969Z" fill="#EBD9B2" />
+
+<path d="M1398.98 791.969L1448.48 791.969L1448.48 841.969L1398.98 841.969Z" fill="#ffffff" />
+
+<path d="M1358.03 1043L1564.28 1043L1564.28 1073L1358.03 1073Z" fill="#EBD9B2" />
+
+<path d="M1358.03 1073L1564.28 1073L1564.28 1123L1358.03 1123Z" fill="#ffffff" />
+
+<path d="M1458.03 941L1507.53 941L1507.53 971L1458.03 971Z" fill="#EBD9B2" />
+
+<path d="M1458.03 971L1507.53 971L1507.53 1021L1458.03 1021Z" fill="#ffffff" />
+
+<path d="M1693.98 465.969L1743.48 465.969L1743.48 495.969L1693.98 495.969Z" fill="#EBD9B2" />
+
+<path d="M1693.98 495.969L1743.48 495.969L1743.48 545.969L1693.98 545.969Z" fill="#ffffff" />
+
+<path d="M1694.03 586L1900.28 586L1900.28 616L1694.03 616Z" fill="#EBD9B2" />
+
+<path d="M1694.03 616L1900.28 616L1900.28 666L1694.03 666Z" fill="#ffffff" />
+
+<path d="M1697.03 729L1903.28 729L1903.28 759L1697.03 759Z" fill="#EBD9B2" />
+
+<path d="M1697.03 759L1903.28 759L1903.28 809L1697.03 809Z" fill="#ffffff" />
+
+<path d="M1697.98 853.969L1747.48 853.969L1747.48 883.969L1697.98 883.969Z" fill="#EBD9B2" />
+
+<path d="M1697.98 883.969L1747.48 883.969L1747.48 933.969L1697.98 933.969Z" fill="#ffffff" />
+
+<path d="M1914.48 309.969L2079.48 309.969L2079.48 339.969L1914.48 339.969Z" fill="#EBD9B2" />
+
+<path d="M1914.48 339.969L2079.48 339.969L2079.48 404.969L1914.48 404.969Z" fill="#ffffff" />
+
+<path d="M1942.48 954.969L2107.48 954.969L2107.48 984.969L1942.48 984.969Z" fill="#EBD9B2" />
+
+<path d="M1942.48 984.969L2107.48 984.969L2107.48 1049.97L1942.48 1049.97Z" fill="#ffffff" />
+
+<path d="M2181.03 296L2387.28 296L2387.28 326L2181.03 326Z" fill="#EBD9B2" />
+
+<path d="M2181.03 326L2387.28 326L2387.28 376L2181.03 376Z" fill="#ffffff" />
+
+<path d="M2212.64 915.5L2418.89 915.5L2418.89 945.5L2212.64 945.5Z" fill="#EBD9B2" />
+
+<path d="M2212.64 945.5L2418.89 945.5L2418.89 995.5L2212.64 995.5Z" fill="#ffffff" />
+
+<path d="M2388.09 1091.72L2646.59 1091.72L2646.59 1121.72L2388.09 1121.72Z" fill="#EBD9B2" />
+
+<path d="M2388.09 1121.72L2646.59 1121.72L2646.59 1261.72L2388.09 1261.72Z" fill="#ffffff" />
+
+</g>
+
+<g>
+
+<text y="462.4375" x="235.671875" stroke="none" font-size="14px" fill="black">Input dataset</text>
+
+<text y="487.4375" x="235.671875" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="657.609375" x="240.53125" stroke="none" font-size="14px" fill="black">Input dataset</text>
+
+<text y="682.609375" x="240.53125" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="1210.890625" x="328.046875" stroke="none" font-size="14px" fill="black">Input dataset</text>
+
+<text y="1235.890625" x="328.046875" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="323" x="481.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="348" x="481.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="378" x="481.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="462.4375" x="474.671875" stroke="none" font-size="14px" fill="black">Extract (constrained) information</text>
+
+<text y="487.4375" x="474.671875" stroke="none" font-size="10px" fill="black">Similarity search report</text>
+
+<text y="517.4375" x="474.671875" stroke="none" font-size="10px" fill="black">report_filepath</text>
+
+<text y="532.4375" x="474.671875" stroke="none" font-size="10px" fill="black">output_filepath</text>
+
+<text y="656.8125" x="480.578125" stroke="none" font-size="14px" fill="black">Extract (constrained) information</text>
+
+<text y="681.8125" x="480.578125" stroke="none" font-size="10px" fill="black">Similarity search report</text>
+
+<text y="711.8125" x="480.578125" stroke="none" font-size="10px" fill="black">report_filepath</text>
+
+<text y="726.8125" x="480.578125" stroke="none" font-size="10px" fill="black">output_filepath</text>
+
+<text y="866" x="486.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="891" x="486.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="921" x="486.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="293" x="801.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="318" x="801.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="348" x="801.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="516.609375" x="785.03125" stroke="none" font-size="14px" fill="black">Remove beginning</text>
+
+<text y="541.609375" x="785.03125" stroke="none" font-size="10px" fill="black">from</text>
+
+<text y="571.609375" x="785.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="711.609375" x="787.03125" stroke="none" font-size="14px" fill="black">Remove beginning</text>
+
+<text y="736.609375" x="787.03125" stroke="none" font-size="10px" fill="black">from</text>
+
+<text y="766.609375" x="787.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="893" x="791.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="918" x="791.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="948" x="791.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="408.609375" x="1108.53125" stroke="none" font-size="14px" fill="black">Compare two Datasets</text>
+
+<text y="433.609375" x="1108.53125" stroke="none" font-size="10px" fill="black">Compare</text>
+
+<text y="448.609375" x="1108.53125" stroke="none" font-size="10px" fill="black">against</text>
+
+<text y="478.609375" x="1108.53125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="599.96875" x="1109.984375" stroke="none" font-size="14px" fill="black">Join two Datasets</text>
+
+<text y="624.96875" x="1109.984375" stroke="none" font-size="10px" fill="black">Join</text>
+
+<text y="639.96875" x="1109.984375" stroke="none" font-size="10px" fill="black">with</text>
+
+<text y="669.96875" x="1109.984375" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="884.609375" x="1117.53125" stroke="none" font-size="14px" fill="black">Compare two Datasets</text>
+
+<text y="909.609375" x="1117.53125" stroke="none" font-size="10px" fill="black">Compare</text>
+
+<text y="924.609375" x="1117.53125" stroke="none" font-size="10px" fill="black">against</text>
+
+<text y="954.609375" x="1117.53125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="282" x="1340.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="307" x="1340.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="337" x="1340.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="386" x="1459.03125" stroke="none" font-size="14px" fill="black">Cut</text>
+
+<text y="411" x="1459.03125" stroke="none" font-size="10px" fill="black">From</text>
+
+<text y="441" x="1459.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="638" x="1344.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="663" x="1344.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="693" x="1344.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="515.96875" x="1409.984375" stroke="none" font-size="14px" fill="black">Filter</text>
+
+<text y="540.96875" x="1409.984375" stroke="none" font-size="10px" fill="black">Filter</text>
+
+<text y="570.96875" x="1409.984375" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="781.96875" x="1403.984375" stroke="none" font-size="14px" fill="black">Filter</text>
+
+<text y="806.96875" x="1403.984375" stroke="none" font-size="10px" fill="black">Filter</text>
+
+<text y="836.96875" x="1403.984375" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="1063" x="1363.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="1088" x="1363.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="1118" x="1363.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="961" x="1463.03125" stroke="none" font-size="14px" fill="black">Cut</text>
+
+<text y="986" x="1463.03125" stroke="none" font-size="10px" fill="black">From</text>
+
+<text y="1016" x="1463.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="485.96875" x="1698.984375" stroke="none" font-size="14px" fill="black">Cut</text>
+
+<text y="510.96875" x="1698.984375" stroke="none" font-size="10px" fill="black">From</text>
+
+<text y="540.96875" x="1698.984375" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="606" x="1699.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="631" x="1699.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="661" x="1699.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="749" x="1702.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="774" x="1702.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="804" x="1702.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="873.96875" x="1702.984375" stroke="none" font-size="14px" fill="black">Cut</text>
+
+<text y="898.96875" x="1702.984375" stroke="none" font-size="10px" fill="black">From</text>
+
+<text y="928.96875" x="1702.984375" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="329.96875" x="1919.484375" stroke="none" font-size="14px" fill="black">Concatenate datasets</text>
+
+<text y="354.96875" x="1919.484375" stroke="none" font-size="10px" fill="black">Concatenate Dataset</text>
+
+<text y="369.96875" x="1919.484375" stroke="none" font-size="10px" fill="black">Dataset 1 > Select</text>
+
+<text y="399.96875" x="1919.484375" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="974.96875" x="1947.484375" stroke="none" font-size="14px" fill="black">Concatenate datasets</text>
+
+<text y="999.96875" x="1947.484375" stroke="none" font-size="10px" fill="black">Concatenate Dataset</text>
+
+<text y="1014.96875" x="1947.484375" stroke="none" font-size="10px" fill="black">Dataset 1 > Select</text>
+
+<text y="1044.96875" x="1947.484375" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="316" x="2186.03125" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="341" x="2186.03125" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="371" x="2186.03125" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="935.5" x="2217.640625" stroke="none" font-size="14px" fill="black">Line/Word/Character count</text>
+
+<text y="960.5" x="2217.640625" stroke="none" font-size="10px" fill="black">Text file</text>
+
+<text y="990.5" x="2217.640625" stroke="none" font-size="10px" fill="black">out_file1</text>
+
+<text y="1111.71875" x="2393.09375" stroke="none" font-size="14px" fill="black">Extract</text>
+
+<text y="1136.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">Sequence file</text>
+
+<text y="1151.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">Constraints on sequences 1 > List of constraint</text>
+
+<text y="1181.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">information_file</text>
+
+<text y="1196.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">fasta_sequence_file</text>
+
+<text y="1211.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">fastq_sequence_file</text>
+
+<text y="1226.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">quality_file</text>
+
+<text y="1241.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">fasta_sequence_file_from_fastq</text>
+
+<text y="1256.71875" x="2393.09375" stroke="none" font-size="10px" fill="black">report_filepath</text>
+
+<path d="M476.031 358L682.281 358" />
+
+<circle cy="482.4375" cx="337.921875" r="5" fill="#ffffff" />
+
+<path d="M469.672 497.438L741.922 497.438" />
+
+<circle cy="482.4375" cx="337.921875" r="5" fill="#ffffff" />
+
+<path d="M475.578 691.812L747.828 691.812" />
+
+<circle cy="677.609375" cx="342.78125" r="5" fill="#ffffff" />
+
+<path d="M481.031 901L687.281 901" />
+
+<circle cy="677.609375" cx="342.78125" r="5" fill="#ffffff" />
+
+<path d="M796.031 328L1002.28 328" />
+
+<circle cy="527.4375" cx="741.921875" r="5" fill="#ffffff" />
+
+<path d="M780.031 551.609L912.031 551.609" />
+
+<circle cy="527.4375" cx="741.921875" r="5" fill="#ffffff" />
+
+<path d="M782.031 746.609L914.031 746.609" />
+
+<circle cy="721.8125" cx="747.828125" r="5" fill="#ffffff" />
+
+<path d="M786.031 928L992.281 928" />
+
+<circle cy="721.8125" cx="747.828125" r="5" fill="#ffffff" />
+
+<path d="M1103.53 458.609L1268.53 458.609" />
+
+<circle cy="761.609375" cx="914.03125" r="5" fill="#ffffff" />
+
+<circle cy="566.609375" cx="912.03125" r="5" fill="#ffffff" />
+
+<path d="M1104.98 649.969L1245.23 649.969" />
+
+<circle cy="761.609375" cx="914.03125" r="5" fill="#ffffff" />
+
+<circle cy="566.609375" cx="912.03125" r="5" fill="#ffffff" />
+
+<path d="M1112.53 934.609L1277.53 934.609" />
+
+<circle cy="566.609375" cx="912.03125" r="5" fill="#ffffff" />
+
+<circle cy="761.609375" cx="914.03125" r="5" fill="#ffffff" />
+
+<path d="M1335.03 317L1541.28 317" />
+
+<circle cy="473.609375" cx="1268.53125" r="5" fill="#ffffff" />
+
+<path d="M1454.03 421L1503.53 421" />
+
+<circle cy="473.609375" cx="1268.53125" r="5" fill="#ffffff" />
+
+<path d="M1339.03 673L1545.28 673" />
+
+<circle cy="664.96875" cx="1245.234375" r="5" fill="#ffffff" />
+
+<path d="M1404.98 550.969L1454.48 550.969" />
+
+<circle cy="664.96875" cx="1245.234375" r="5" fill="#ffffff" />
+
+<path d="M1398.98 816.969L1448.48 816.969" />
+
+<circle cy="664.96875" cx="1245.234375" r="5" fill="#ffffff" />
+
+<path d="M1358.03 1098L1564.28 1098" />
+
+<circle cy="949.609375" cx="1277.53125" r="5" fill="#ffffff" />
+
+<path d="M1458.03 996L1507.53 996" />
+
+<circle cy="949.609375" cx="1277.53125" r="5" fill="#ffffff" />
+
+<path d="M1693.98 520.969L1743.48 520.969" />
+
+<circle cy="565.96875" cx="1454.484375" r="5" fill="#ffffff" />
+
+<path d="M1694.03 641L1900.28 641" />
+
+<circle cy="565.96875" cx="1454.484375" r="5" fill="#ffffff" />
+
+<path d="M1697.03 784L1903.28 784" />
+
+<circle cy="831.96875" cx="1448.484375" r="5" fill="#ffffff" />
+
+<path d="M1697.98 908.969L1747.48 908.969" />
+
+<circle cy="831.96875" cx="1448.484375" r="5" fill="#ffffff" />
+
+<path d="M1914.48 379.969L2079.48 379.969" />
+
+<circle cy="436" cx="1503.53125" r="5" fill="#ffffff" />
+
+<circle cy="535.96875" cx="1743.484375" r="5" fill="#ffffff" />
+
+<path d="M1942.48 1024.97L2107.48 1024.97" />
+
+<circle cy="923.96875" cx="1747.484375" r="5" fill="#ffffff" />
+
+<circle cy="1011" cx="1507.53125" r="5" fill="#ffffff" />
+
+<path d="M2181.03 351L2387.28 351" />
+
+<circle cy="394.96875" cx="2079.484375" r="5" fill="#ffffff" />
+
+<path d="M2212.64 970.5L2418.89 970.5" />
+
+<circle cy="1039.96875" cx="2107.484375" r="5" fill="#ffffff" />
+
+<path d="M2388.09 1161.72L2646.59 1161.72" />
+
+<circle cy="1039.96875" cx="2107.484375" r="5" fill="#ffffff" />
+
+<circle cy="1230.890625" cx="430.296875" r="5" fill="#ffffff" />
+
+</g>
+
+</svg>
+
