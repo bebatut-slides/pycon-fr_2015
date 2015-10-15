@@ -917,26 +917,6 @@
   <path
      style="fill:#ebd9b2;stroke-width:1"
      inkscape:connector-curvature="0"
-     id="path305"
-     d="m 5.4999816,280.938 107.2499984,0 0,30 -107.2499984,0 z" />
-  <path
-     style="fill:#ffffff;stroke-width:1"
-     inkscape:connector-curvature="0"
-     id="path307"
-     d="m 5.4999816,310.938 107.2499984,0 0,20 -107.2499984,0 z" />
-  <path
-     style="fill:#ebd9b2;stroke-width:1"
-     inkscape:connector-curvature="0"
-     id="path309"
-     d="m 10.358982,476.109 107.249998,0 0,30 -107.249998,0 z" />
-  <path
-     style="fill:#ffffff;stroke-width:1"
-     inkscape:connector-curvature="0"
-     id="path311"
-     d="m 10.358982,506.109 107.249998,0 0,20 -107.249998,0 z" />
-  <path
-     style="fill:#ebd9b2;stroke-width:1"
-     inkscape:connector-curvature="0"
      id="path313"
      d="m 97.874982,1029.39 107.249998,0 0,30 -107.249998,0 z" />
   <path
@@ -1214,30 +1194,6 @@
      inkscape:connector-curvature="0"
      id="path423"
      d="m 2162.918,960.22 258.5,0 0,140 -258.5,0 z" />
-  <text
-     style="font-size:14px;fill:#000000;stroke:none"
-     id="text427"
-     font-size="14px"
-     x="10.499857"
-     y="300.9375">Input dataset</text>
-  <text
-     style="font-size:10px;fill:#000000;stroke:none"
-     id="text429"
-     font-size="10px"
-     x="10.499857"
-     y="325.9375">output</text>
-  <text
-     style="font-size:14px;fill:#000000;stroke:none"
-     id="text431"
-     font-size="14px"
-     x="15.359232"
-     y="496.10938">Input dataset</text>
-  <text
-     style="font-size:10px;fill:#000000;stroke:none"
-     id="text433"
-     font-size="10px"
-     x="15.359232"
-     y="521.10938">output</text>
   <text
      style="font-size:14px;fill:#000000;stroke:none"
      id="text435"
@@ -1819,65 +1775,117 @@
      id="path627"
      d="m 250.85898,196.5 206.25,0"
      style="stroke-width:1" />
-  <circle
-     style="fill:#ffffff"
-     sodipodi:ry="5"
-     sodipodi:rx="5"
-     sodipodi:cy="482.4375"
-     sodipodi:cx="337.92188"
-     id="circle629"
-     r="5"
-     cx="337.92188"
-     cy="482.4375"
-     transform="translate(-225.17202,-161.5)" />
   <path
      inkscape:connector-curvature="0"
      id="path631"
      d="m 244.49998,335.938 272.25,0"
      style="stroke-width:1" />
-  <circle
-     style="fill:#ffffff"
-     sodipodi:ry="5"
-     sodipodi:rx="5"
-     sodipodi:cy="482.4375"
-     sodipodi:cx="337.92188"
-     id="circle633"
-     r="5"
-     cx="337.92188"
-     cy="482.4375"
-     transform="translate(-225.17202,-161.5)" />
+  <g
+     id="g4716">
+    <path
+       d="m 5.4999816,280.938 107.2499984,0 0,30 -107.2499984,0 z"
+       id="path305"
+       inkscape:connector-curvature="0"
+       style="fill:#ebd9b2;stroke-width:1" />
+    <path
+       d="m 5.4999816,310.938 107.2499984,0 0,20 -107.2499984,0 z"
+       id="path307"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:1" />
+    <text
+       y="300.9375"
+       x="10.499857"
+       font-size="14px"
+       id="text427"
+       style="font-size:14px;fill:#000000;stroke:none">Input dataset</text>
+    <text
+       y="325.9375"
+       x="10.499857"
+       font-size="10px"
+       id="text429"
+       style="font-size:10px;fill:#000000;stroke:none">output</text>
+    <circle
+       transform="translate(-225.17202,-161.5)"
+       cy="482.4375"
+       cx="337.92188"
+       r="5"
+       id="circle629"
+       sodipodi:cx="337.92188"
+       sodipodi:cy="482.4375"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       style="fill:#ffffff" />
+    <circle
+       transform="translate(-225.17202,-161.5)"
+       cy="482.4375"
+       cx="337.92188"
+       r="5"
+       id="circle633"
+       sodipodi:cx="337.92188"
+       sodipodi:cy="482.4375"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       style="fill:#ffffff" />
+  </g>
   <path
      inkscape:connector-curvature="0"
      id="path635"
      d="m 250.40598,530.312 272.25,0"
      style="stroke-width:1" />
-  <circle
-     style="fill:#ffffff"
-     sodipodi:ry="5"
-     sodipodi:rx="5"
-     sodipodi:cy="677.60938"
-     sodipodi:cx="342.78125"
-     id="circle637"
-     r="5"
-     cx="342.78125"
-     cy="677.60938"
-     transform="translate(-225.17202,-161.5)" />
   <path
      inkscape:connector-curvature="0"
      id="path639"
      d="m 255.85898,739.5 206.25,0"
      style="stroke-width:1" />
-  <circle
-     style="fill:#ffffff"
-     sodipodi:ry="5"
-     sodipodi:rx="5"
-     sodipodi:cy="677.60938"
-     sodipodi:cx="342.78125"
-     id="circle641"
-     r="5"
-     cx="342.78125"
-     cy="677.60938"
-     transform="translate(-225.17202,-161.5)" />
+  <g
+     id="g4724">
+    <path
+       d="m 10.358982,476.109 107.249998,0 0,30 -107.249998,0 z"
+       id="path309"
+       inkscape:connector-curvature="0"
+       style="fill:#ebd9b2;stroke-width:1" />
+    <path
+       d="m 10.358982,506.109 107.249998,0 0,20 -107.249998,0 z"
+       id="path311"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:1" />
+    <text
+       y="496.10938"
+       x="15.359232"
+       font-size="14px"
+       id="text431"
+       style="font-size:14px;fill:#000000;stroke:none">Input dataset</text>
+    <text
+       y="521.10938"
+       x="15.359232"
+       font-size="10px"
+       id="text433"
+       style="font-size:10px;fill:#000000;stroke:none">output</text>
+    <circle
+       transform="translate(-225.17202,-161.5)"
+       cy="677.60938"
+       cx="342.78125"
+       r="5"
+       id="circle637"
+       sodipodi:cx="342.78125"
+       sodipodi:cy="677.60938"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       style="fill:#ffffff"
+       d="m 347.78125,677.60937 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z" />
+    <circle
+       transform="translate(-225.17202,-161.5)"
+       cy="677.60938"
+       cx="342.78125"
+       r="5"
+       id="circle641"
+       sodipodi:cx="342.78125"
+       sodipodi:cy="677.60938"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       style="fill:#ffffff"
+       d="m 347.78125,677.60937 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z" />
+  </g>
   <path
      inkscape:connector-curvature="0"
      id="path643"
